@@ -9,13 +9,13 @@
 https://t.me/Just_sarcasm
 
 ### Языки и инструментарий:
-#### Python
-#### Machine Learning 
-#### Big Data
-#### JUPYTER
-#### Sclearn
-#### Data Analysis
-#### Pandas
-#### Keras
-#### Tensorflow
-#### SQL
+1. Python
+2. Machine Learning 
+3. Big Data
+4. JUPYTER
+5. Sclearn
+6. Data Analysis
+7. Pandas
+8. Keras
+9. Tensorflow
+10. SQL
